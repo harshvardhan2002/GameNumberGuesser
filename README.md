@@ -1,7 +1,8 @@
 # GameNumberGuesser
 
 ## User is asked to choose whether to start a new game by entering yes or no.
-![image](https://github.com/user-attachments/assets/be6799ce-21c8-47b5-a326-bd0c8eca45d5)
+![image](https://github.com/user-attachments/assets/dcf7dcb0-ee02-429b-870b-60dc6e44c5b1)
+
 
 
 ## If you choose yes, enter the minimum and maximum range for the number.
@@ -17,5 +18,7 @@
 
 
 ## The game continues until you correctly guess the number, the user is again asked if they want to play another game, select yes to play and no to exit.
-![image](https://github.com/user-attachments/assets/91a91f2d-45b8-4835-8b7b-19c9c5e488e5)
+![image](https://github.com/user-attachments/assets/1ad81904-7028-428c-a739-bc616eae96c4)
+![image](https://github.com/user-attachments/assets/f244efee-74e5-4393-8494-3e6444f3aeb0)
+
 
